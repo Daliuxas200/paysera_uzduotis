@@ -1,0 +1,12 @@
+--- running the app ---
+
+1) install dependencies
+npm install
+
+2) add input data file to root directory, name doesn't matter, as long as its .json format
+
+3) run app in terminal with data input file name as an argument
+node app.js input.json
+node app.js input2.json
+
+

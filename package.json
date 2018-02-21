@@ -1,0 +1,17 @@
+{
+  "name": "paysera_uzduotis",
+  "version": "1.0.0",
+  "description": "Paysera uzduotis",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dalius Slavickas",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.2",
+    "file-system": "^2.2.2",
+    "moment": "^2.20.1"
+  }
+}
